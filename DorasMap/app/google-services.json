@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7186337918",
+    "project_id": "mvcfirebase-189fa",
+    "storage_bucket": "mvcfirebase-189fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7186337918:android:59cae6c5ebba3c2015882f",
+        "android_client_info": {
+          "package_name": "com.example.dorasmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOpjYSWItBSpMGlzD3dT3VdNyTZLHJsM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7186337918:android:6cd26ba6afbb2d1815882f",
+        "android_client_info": {
+          "package_name": "com.example.selfstudyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOpjYSWItBSpMGlzD3dT3VdNyTZLHJsM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
